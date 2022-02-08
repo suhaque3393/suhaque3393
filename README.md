@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @suhaque3393
-- 👀 I’m interested in machine learning and quntum computing
+- 👀 I’m interested in machine learning and quantum computing
 - 🌱 I’m currently learning deep neural networks and quantum computing 
 - 💞️ I’m looking to collaborate on embedded focused projects that utilize machine learning applications
 - 📫 Email me at suhaque3393@gmail.com :)
